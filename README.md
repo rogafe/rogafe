@@ -1,4 +1,4 @@
-![Rogzfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogafe&show_icons=true&theme=radical)
+![Rogafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogafe&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogafe&langs_count=8&theme=radical)](https://github.com/rogafe)
 

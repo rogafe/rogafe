@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogafe&langs_count=8&theme=radical)](https://github.com/rogafe)
 
-https://github-readme-streak-stats.herokuapp.com/?user=rogafe&theme=dark&hide_border=true&background=FFFFFF00
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rogafe&theme=dark&hide_border=true&background=FFFFFF00)](https://github.com/rogafe)
 
 <!--
 **rogafe/rogafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
